@@ -1,2 +1,25 @@
-# CRUD-Em-Node
-API REST desenvolvida com Node.js para prática de conceitos fundamentais de backend. O projeto implementa um CRUD completo, com integração com banco de dados PostgreSQL, organização em camadas e tratamento básico de erros. Foco em aprendizado de rotas, controllers, manipulação de requisições HTTP e estruturação de aplicações backend.
+## 📖 Sobre
+Este projeto consiste em uma API REST desenvolvida em Node.js com o objetivo de praticar conceitos fundamentais de desenvolvimento backend.
+A aplicação implementa um CRUD completo, permitindo:
+
+* Criar registros
+* Listar registros
+* Atualizar registros
+* Deletar registros
+
+Durante o desenvolvimento, foram trabalhados conceitos como:
+
+* Estruturação de rotas
+* Separação de responsabilidades (controllers e lógica)
+* Integração com PostgreSQL
+* Tratamento de erros e respostas HTTP
+* Uso de variáveis de ambiente
+
+## 🛠 Tecnologias utilizadas
+
+- Node.js
+- Express
+- PostgreSQL
+- dotenv
+------------
+### 📝📚🖥️ Projeto desenvolvido para aprendizado.
