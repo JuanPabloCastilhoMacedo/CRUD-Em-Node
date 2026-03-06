@@ -18,7 +18,7 @@ Durante o desenvolvimento, foram trabalhados conceitos como:
 ## 🛠 Tecnologias utilizadas
 
 - Node.js
-- Express
+- Fastify
 - PostgreSQL
 - dotenv
 ------------
